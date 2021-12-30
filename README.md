@@ -46,7 +46,7 @@ Standard C++ consists of three important parts −
 
 <div align="center">
 <h1> C++ Basic Syntax</h1>
-<img width="50%" align="center" src="../CPP/img/Hello_World.jpeg"><br><br>
+<img width="50%" align="center" src="img/Hello_World.jpeg"><br><br>
 </div>
 When we consider a C++ program, it can be defined as a collection of objects that communicate via invoking each other's methods. Let us now briefly look into what a class, object, methods, and instant variables mean.
 
